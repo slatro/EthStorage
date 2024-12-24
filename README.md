@@ -103,7 +103,7 @@ https://FLATDIRECTORYADRESS.3333.w3link.io/app.html
 
 > 1. Form  (Başvuru) https://dawme4mo.forms.app/ethstorage-2nd-campaign-application
 
->Alttaki metine cüzdan adresinizi girin ve twitterdan twit atın.
+>Alttaki metine cüzdan adresinizi girin ve twitterdan twit atın..
 >
 >Başvurunuz onaylanınca size Twitter üzerinden Mesaj atacaklar. Mesaj ayarlarınızın herkese açık oldugundan emin olun
 >
